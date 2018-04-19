@@ -1,0 +1,54 @@
+@import url(//at.alicdn.com/t/font_632214_b7w7t7uzmur6n7b9.css);
+
+.dataItem {
+  padding: 0px 12px 12px;
+  margin: 4px 0;
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.32) 1px 1px 3px 0px;
+}
+
+.title {
+  height: 24px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 80px;
+
+  .icon {
+    margin-right: 10px;
+    &:before{
+      font-size: 50px;
+    }
+  }
+  .value {
+    font-size: 18px;
+    margin-right: 5px;
+  }
+}
+
+
+.bg0 {
+  background: linear-gradient(#3071ff,#40a0f4);
+}
+
+.bg1 {
+  background: linear-gradient(#00af98,#00c66a);
+}
+
+.bg2 {
+  background: linear-gradient(#3c385b,#597087);
+}
+
+.bg3 {
+  background: linear-gradient(#5148a9,#7f60c7);
+}
+
+.bg4 {
+  background: linear-gradient(#ff773d,#ffaa4a);
+}

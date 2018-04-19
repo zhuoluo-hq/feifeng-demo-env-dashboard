@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome{
+    font-size: 24px;
+    font-weight: 100;
+    color: #777;
+    margin: 20px 0 0 0;
+}

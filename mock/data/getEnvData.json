@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "key": "CurrentTemperature",
+      "name": "温度",
+      "unit": "°C",
+      "unitName": "摄氏度",
+      "value": 100
+    },
+    {
+      "key": "RelativeHumidity",
+      "name": "湿度",
+      "unit": "%",
+      "unitName": "百分比",
+      "value": 100
+    },
+    {
+      "key": "PM25Value",
+      "name": "PM25浓度",
+      "unit": "mg/m³",
+      "unitName": "毫克每平方米",
+      "value": 100
+    },
+    {
+      "key": "LightLuxValue",
+      "name": "光照度",
+      "unit": "Lux",
+      "unitName": "照度",
+      "value": 10000
+    },
+    {
+      "key": "CO2Value",
+      "name": "二氧化碳浓度",
+      "unit": "ppm",
+      "unitName": "百万分率",
+      "value": 1000
+    },
+    {
+      "key": "SoundDecibelValue",
+      "name": "声音分贝值",
+      "unit": "dB",
+      "unitName": "分贝",
+      "value": 57
+    }
+  ],
+  "id": "776f5410-41de-11e8-b609-b770b309bf2a",
+  "level": "info",
+  "message": ""
+}
